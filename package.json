@@ -9,13 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vidstack/player": "^0.13.3",
     "axios": "^1.6.8",
-    "vidstack": "^1.11.6",
     "vue": "^3.4.21",
+    "vue-loader": "^17.4.2",
+    "vuetify": "^3.5.14",
     "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
+    "vidstack": "^1.11.7",
     "vite": "^5.2.0"
   }
 }
